@@ -34,3 +34,4 @@ D:\TempProejct\DemoBranchingStrategy\DemoBranchingStrategy\DemoBranchingStrategy
 D:\TempProejct\DemoBranchingStrategy\DemoBranchingStrategy\DemoBranchingStrategy\obj\Debug\net8.0\DemoBranchingStrategy.pdb
 D:\TempProejct\DemoBranchingStrategy\DemoBranchingStrategy\DemoBranchingStrategy\obj\Debug\net8.0\DemoBranchingStrategy.genruntimeconfig.cache
 D:\TempProejct\DemoBranchingStrategy\DemoBranchingStrategy\DemoBranchingStrategy\obj\Debug\net8.0\ref\DemoBranchingStrategy.dll
+D:\TempProejct\DemoBranchingStrategy\DemoBranchingStrategy\DemoBranchingStrategy\obj\Debug\net8.0\DemoBranchingStrategy.sourcelink.json

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DemoBranchingStrategy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f6b68ca9770c8610e0d7e9c21b652f13ba5a7b1b")]
 [assembly: System.Reflection.AssemblyProductAttribute("DemoBranchingStrategy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DemoBranchingStrategy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
