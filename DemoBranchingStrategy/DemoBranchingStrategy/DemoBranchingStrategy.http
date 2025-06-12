@@ -1,0 +1,6 @@
+@DemoBranchingStrategy_HostAddress = http://localhost:5296
+
+GET {{DemoBranchingStrategy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
