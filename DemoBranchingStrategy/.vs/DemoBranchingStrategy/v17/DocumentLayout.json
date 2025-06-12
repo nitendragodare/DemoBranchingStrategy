@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\TempProejct\\DemoBranchingStrategy\\DemoBranchingStrategy\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23C456A7-0AEC-4A24-AE8C-A05E74602C34}|DemoBranchingStrategy\\DemoBranchingStrategy.csproj|d:\\tempproejct\\demobranchingstrategy\\demobranchingstrategy\\demobranchingstrategy\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C456A7-0AEC-4A24-AE8C-A05E74602C34}|DemoBranchingStrategy\\DemoBranchingStrategy.csproj|solutionrelative:demobranchingstrategy\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23C456A7-0AEC-4A24-AE8C-A05E74602C34}|DemoBranchingStrategy\\DemoBranchingStrategy.csproj|d:\\tempproejct\\demobranchingstrategy\\demobranchingstrategy\\demobranchingstrategy\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23C456A7-0AEC-4A24-AE8C-A05E74602C34}|DemoBranchingStrategy\\DemoBranchingStrategy.csproj|solutionrelative:demobranchingstrategy\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\TempProejct\\DemoBranchingStrategy\\DemoBranchingStrategy\\DemoBranchingStrategy\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DemoBranchingStrategy\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\TempProejct\\DemoBranchingStrategy\\DemoBranchingStrategy\\DemoBranchingStrategy\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DemoBranchingStrategy\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:34:45.478Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\TempProejct\\DemoBranchingStrategy\\DemoBranchingStrategy\\DemoBranchingStrategy\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "DemoBranchingStrategy\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\TempProejct\\DemoBranchingStrategy\\DemoBranchingStrategy\\DemoBranchingStrategy\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "DemoBranchingStrategy\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T12:34:50.224Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
